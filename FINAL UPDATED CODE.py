@@ -34,8 +34,8 @@ from datetime import datetime
 import time
 
 # 🔑 API KEYS
-NEWS_API_KEY = "1d3b7e6b933246fc917eabfbe7d4b6d4"
-OPENAI_API_KEY = "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"
+NEWS_API_KEY = #News API key
+OPENAI_API_KEY = #OpenAI API key
 
 # 🧍 Random user generator
 def random_username():
